@@ -65,13 +65,13 @@ body{
 .conteudo-principal-escrito-titulo {
 	font-family: 'Bebas Neue', cursive;
 	font-weight: 400;
-	font-size: 64px;
+	font-size: 65px;
 	color: #FFF2E7;
 }
 
 .conteudo-principal-escrito-titulo:hover {
 	font-weight: 410;
-	font-size: 74px;
+	font-size: 75px;
 }
 
 .conteudo-principal-escrito-subtitulo {
